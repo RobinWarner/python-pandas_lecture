@@ -18,6 +18,7 @@ Finally, activate the conda environment and open jupyter notebook:
 
 ## Day 2
 ### samples
+If you want to be tidy, you can create a new directory in the `/vol/volumes/python-pandas` where you save the new data and notebook.
 Download the new data using `wget` from ..
 
 `https://raw.githubusercontent.com/SPAAM-community/AncientMetagenomeDir/b187df6ebd23dfeb42935fd5020cb615ead3f164/ancientmetagenome-hostassociated/samples/ancientmetagenome-hostassociated_samples.tsv`
