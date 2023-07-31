@@ -15,3 +15,12 @@ Finally, activate the conda environment and open jupyter notebook:
 `conda activate python-pandas`
 
 `jupyter notebook`
+
+## Day 2
+### samples
+
+`https://raw.githubusercontent.com/SPAAM-community/AncientMetagenomeDir/b187df6ebd23dfeb42935fd5020cb615ead3f164/ancientmetagenome-hostassociated/samples/ancientmetagenome-hostassociated_samples.tsv`
+
+### libraries
+
+`https://raw.githubusercontent.com/SPAAM-community/AncientMetagenomeDir/b187df6ebd23dfeb42935fd5020cb615ead3f164/ancientmetagenome-hostassociated/libraries/ancientmetagenome-hostassociated_libraries.tsv`
