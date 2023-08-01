@@ -29,4 +29,4 @@ Download the new data using `wget` from ..
 
 Also, get the new notebook using
 
-`wget https://raw.githubusercontent.com/RobinWarner/python-pandas_lecture/main/student-notebook.ipynb`
+`wget https://raw.githubusercontent.com/RobinWarner/python-pandas_lecture/main/new-tasks.ipynb`
